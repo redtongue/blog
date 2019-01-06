@@ -47,6 +47,7 @@ Also, if the sequence is possible to stamp, it is guaranteed it is possible to s
 	Input: stamp = "abc", target = "ababc"
 	Output: [0,2]
 	([1,0,2] would also be accepted as an answer, as well as some other answers.)
+
 ### Example 2:
 
 	Input: stamp = "abca", target = "aabcaca"

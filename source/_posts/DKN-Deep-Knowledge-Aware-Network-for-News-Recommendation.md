@@ -22,7 +22,7 @@ categories: paper
 ## INTRODUCTION
 
 随着网络的发展，现在人们阅读新闻的习惯已经从传统的纸媒、电视转向网络，如[Google News](https://news.google.com "https://news.google.com")和[Bing News](https://www.bing.com/news "https://www.bing.com/news")在线新闻网站，收集各种各样的新闻资源提供给读者。网络新闻平台的一个常见问题是，文章的数量可能会被淹没，从而减轻信息过载的影响，从而帮助读者获取阅读兴趣并提出个性化建议。
-![ Illustration of two pieces of news connected throughknowledgeentities](1.png)
+![ Illustration of two pieces of news connected throughknowledgeentities](DKN1.png)
 
 总的来说，新闻推荐更为突出的主要有以下三个挑战：
 

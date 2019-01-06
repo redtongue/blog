@@ -18,7 +18,7 @@ categories: paper
 
 主题模型因其能够将文档集合组织为一组较小的突出主题而受到欢迎。 与密集的分布式表示形式相反，这些文档和主题表示通常可以被人类访问，并且更容易被解释。 这种解释性提供了额外的选项来突出我们的文档系统中的模式和结构。 例如，使用潜在狄利克雷分配（LDA）主题模型可以揭示文档中的词汇集合（Blei et al。，2003），强调时间趋势（Charlin et al。，2015），并推断补充产品的网络（McAuley et al。 。，2015）。 见Blei等人。 （2010年），概述计算机视觉，遗传标记，调查数据和社交网络数据等领域的主题建模。
 
-![lda2vec builds representations over both words and documents by mixing word2vec’s skipgram architecture with Dirichlet-optimized sparse topic mixtures](1.png)
+![lda2vec builds representations over both words and documents by mixing word2vec’s skipgram architecture with Dirichlet-optimized sparse topic mixtures](lda2vec1.png)
 
 图1：lda2vec通过将word2vec的skip gram体系结构与Dirichlet优化的稀疏主题混合体相结合，在单词和文档上构建表示。 文中描述了图中出现的各种组件和转换。
 
